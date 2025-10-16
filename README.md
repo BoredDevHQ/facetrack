@@ -30,7 +30,7 @@ A Simple Arduino project that uses the camera (python script) to turn coordinate
 pip install opencv-python pyserial
 ```
 
-2. Upload the Arduino sketch (`facerec.ino`) to your Arduino board using the Arduino IDE.
+2. Upload the Arduino sketch (`facetrack.ino`) to your Arduino board using the Arduino IDE.
 
 3. Connect the hardware according to the pin configuration.
 
